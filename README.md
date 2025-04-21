@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi folks, Jakov here! 👋
+I'm a software dev with 3 years of experience in building full-stack applications.
 
-<!--
-**jakovg1/jakovg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to message me for freelance projects opportunities (B2B, contact below)
 
-Here are some ideas to get you started:
+## 🚀 A couple of my projects
+- 📝 [Pathfinder: Visualize pathfinding algorithms](https://visualizer-alg.netlify.app/) – React
+- 📅 [Connect four](https://connect-four-to-win.netlify.app/) – Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stacks I love to work with
+Angular, React, Java, Spring Boot, PostgreSQL, Docker, Kubernetes, and counting 😊
+
+## 📫 Let's Connect
+- [My LinkedIn](https://www.linkedin.com/in/jakov-gracin/)
