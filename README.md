@@ -1,7 +1,7 @@
 # Hi folks, Jakov here! 👋
 I'm a software dev with 3 years of experience in building full-stack applications.
 
-Feel free to message me for freelance projects opportunities (B2B, contact below)
+Feel free to message me for freelance projects opportunities (contact below)
 
 ## 🚀 A couple of my projects
 - 📝 [Pathfinder: Visualize pathfinding algorithms](https://visualizer-alg.netlify.app/) – React
